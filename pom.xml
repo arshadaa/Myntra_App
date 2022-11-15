@@ -19,6 +19,12 @@
     <artifactId>spring-core</artifactId>
     <version>5.3.23</version>
    </dependency>
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-jdbc</artifactId>
+    <version>5.3.23</version>
+</dependency>
+
   </dependencies>
   <build>
     <finalName>Myntra_App</finalName>
